@@ -1,0 +1,15 @@
+{
+    "name": "jmau_kota",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Hp-27",
+    "contributors": [
+    ],
+    "dependencies": {}
+}
